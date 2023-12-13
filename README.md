@@ -6,6 +6,7 @@
 <h2>📝 Certificates:</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/a7f29a4410b88034139d06d5f2870a6f)
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/98601d3e0401a9e0391e52c532be0f64)
 
 <h2>📺 Popular YouTube Videos</h2>
 
